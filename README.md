@@ -7,4 +7,4 @@ o resultado automaticamente deste valor, convertendo-o em todas as unidades de m
 
 Tecnologias empregadas: HTML + CSS + JavaScript.
 
-Para uma melhor compreensão acesse o link: 
+Para uma melhor compreensão acesse o link: https://kikeborin.github.io/tabela-conversao-unidades-medida-comprimento/
